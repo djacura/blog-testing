@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-CSRF_TRUSTED_ORIGINS = ['https://8000-djacura-blogtesting-dyubr44oi3s.ws-eu38.gitpod.io']
+CSRF_TRUSTED_ORIGINS = ['https://8000-djacura-blogtesting-thnevdzirte.ws-eu38.gitpod.io']
 
 # Application definition
 
